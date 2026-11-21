@@ -14,7 +14,6 @@
 ## 项目
 
 - **[chat_app](https://github.com/Tindalos-ik/chat_app)** — C++ 即时通信系统，包含 Qt 桌面客户端和多个聊天服务实例，支持跨服消息、群聊、文件传输和一对一音视频。
-- **[MemMgr](https://github.com/Tindalos-ik/MemMgr)** — 大模型记忆管理实验，围绕 KV 缓存和长期记忆的协同展开，用 vLLM 和 Chroma 搭建本地检索生成及性能评估链路。
 - **[Aiden](https://github.com/Tindalos-ik/Aiden)** — 电商订单与售后客服原型。用 LangGraph 编排对话，把带引用的知识问答和订单查询、售后流程接到同一个工作区。
 - **[robot_cleaning_vision](https://github.com/Tindalos-ik/robot_cleaning_vision)** — 清洁机器人视觉实验，把摄像头采集、模型推理和结果标注串起来，对比手工特征与预训练 CNN 两类方案。
 
